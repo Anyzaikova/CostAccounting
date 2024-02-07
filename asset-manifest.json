@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CostAccounting/static/css/main.38a43d1c.css",
+    "main.js": "/CostAccounting/static/js/main.b497cb87.js",
+    "index.html": "/CostAccounting/index.html",
+    "main.38a43d1c.css.map": "/CostAccounting/static/css/main.38a43d1c.css.map",
+    "main.b497cb87.js.map": "/CostAccounting/static/js/main.b497cb87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a43d1c.css",
+    "static/js/main.b497cb87.js"
+  ]
+}
